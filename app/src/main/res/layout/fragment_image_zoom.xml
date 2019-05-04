@@ -4,7 +4,7 @@
     android:id="@+id/contentMain"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.alain.cursos.texting.Pfruit.alain.cursos.texting.chatModule.view.ImageZoomFragment">
+    tools:context="Pfruit.osbbyx.P.passionfruit.chatModule.view.ImageZoomFragment">
 
     <com.github.chrisbanes.photoview.PhotoView
         android:id="@+id/pvZoom"

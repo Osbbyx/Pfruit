@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:paddingStart="@dimen/margin_none"
         android:paddingEnd="@dimen/margin_horizontal_chat"
-        android:tint="@color/green_700"
+        android:tint="@color/gray_900"
         android:background="?attr/selectableItemBackgroundBorderless"
         android:src="@android:drawable/ic_menu_send"
         android:contentDescription="@string/description_img_sendMessage"

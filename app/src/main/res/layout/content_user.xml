@@ -44,7 +44,7 @@
         android:textColor="@android:color/white"
         android:gravity="center"
         android:maxLength="@integer/maxLength_messages_unread"
-        android:background="@drawable/background_messages_unread"
+        android:background="@drawable/ic_action_name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"/>

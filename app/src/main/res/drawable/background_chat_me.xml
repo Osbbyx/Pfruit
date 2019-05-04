@@ -7,15 +7,15 @@
             android:dither="true"
             android:useLevel="false">
 
-            <solid android:color="@color/green_500"/>
+            <solid android:color="@color/deep_purple_100"/>
 
             <corners
-                android:topLeftRadius="@dimen/common_padding_small"
-                android:bottomLeftRadius="@dimen/common_padding_small"/>
+                android:topLeftRadius="50dp"
+                android:bottomLeftRadius="50dp"/>
 
             <stroke
                 android:width="@dimen/common_border_img"
-                android:color="@color/green_700"/>
+                android:color="@color/deep_purple_100"/>
         </shape>
     </item>
 
@@ -26,15 +26,16 @@
             android:dither="true"
             android:useLevel="false">
 
-            <solid android:color="@color/green_100"/>
+            <solid android:color="@color/deep_purple_100"/>
 
             <corners
-                android:topLeftRadius="@dimen/common_padding_small"
-                android:bottomLeftRadius="@dimen/common_padding_small"/>
+                android:topLeftRadius="50dp"
+                android:bottomLeftRadius="50dp"
+                android:topRightRadius="50dp"/>
 
             <stroke
                 android:width="@dimen/common_border_img"
-                android:color="@color/green_300"/>
+                android:color="@color/deep_purple_100"/>
         </shape>
     </item>
 </selector>

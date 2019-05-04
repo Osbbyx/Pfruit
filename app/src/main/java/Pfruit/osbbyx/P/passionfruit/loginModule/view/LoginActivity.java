@@ -96,8 +96,8 @@ public class LoginActivity extends AppCompatActivity implements LoginView{
         startActivityForResult(AuthUI.getInstance()
                 .createSignInIntentBuilder()
                 .setIsSmartLockEnabled(false)
-                .setTosAndPrivacyPolicyUrls("www.policy.cusros-android-ant.com",
-                        "www.privacity.cusros-android-ant.com")
+                .setTosAndPrivacyPolicyUrls("https://sites.google.com/view/secrethood/privacy-policy",
+                        "https://sites.google.com/view/secrethood/privacy-policy")
                 .setAvailableProviders(Arrays.asList(new AuthUI.IdpConfig.EmailBuilder().build(),
                         googleIdp))
                 .setTheme(R.style.BaseTheme)

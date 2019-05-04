@@ -45,6 +45,43 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:32772882610:android:ac56c5813acbd6ec",
+        "android_client_info": {
+          "package_name": "Pfruit.osbbyx.passionfruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32772882610-fn8uef9v61umo3o9u54p4o70d2hhtovc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Pfruit.osbbyx.passionfruit",
+            "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
+          }
+        },
+        {
+          "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFzYqz-Ee82kJgA3_DBw2ChVQ4rSgv6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:32772882610:android:d4ada06c0e3de3e1",
         "android_client_info": {
           "package_name": "com.alain.cursos.texting"
@@ -64,6 +101,43 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.alain.cursos.texting",
+            "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
+          }
+        },
+        {
+          "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFzYqz-Ee82kJgA3_DBw2ChVQ4rSgv6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32772882610:android:87f759509120f0b9",
+        "android_client_info": {
+          "package_name": "pfruit.osbbyx.passionfruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32772882610-t4ev3301n6jgf6kj8njntlcsdkj1u39s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pfruit.osbbyx.passionfruit",
             "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
           }
         },

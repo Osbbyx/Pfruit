@@ -46,7 +46,7 @@
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
                                       <entry key="imageAsset" value="D:\Programacion\Pfruit\Pfruit.png" />
-                                      <entry key="outputName" value="ic_texting_notify" />
+                                      <entry key="theme" value="HOLO_DARK" />
                                       <entry key="themeColor" value="b576ff" />
                                     </map>
                                   </option>
