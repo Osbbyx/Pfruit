@@ -8,12 +8,57 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:32772882610:android:cd6643609b6b2bbf",
+        "android_client_info": {
+          "package_name": "Pfruit.osbbyx.P.passionfruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32772882610-h34a85ktpm66t0b6hn92eheebtlebuln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Pfruit.osbbyx.P.passionfruit",
+            "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
+          }
+        },
+        {
+          "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFzYqz-Ee82kJgA3_DBw2ChVQ4rSgv6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:32772882610:android:d4ada06c0e3de3e1",
         "android_client_info": {
           "package_name": "com.alain.cursos.texting"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "32772882610-n7kp3qmllcmv8t09rq9s3bmulcl2h3j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alain.cursos.texting",
+            "certificate_hash": "4d6ac01e529562414174af77e53c4d909044f05e"
+          }
+        },
         {
           "client_id": "32772882610-ni28c9dtpksdv1ncajcdknsosj7hv34n.apps.googleusercontent.com",
           "client_type": 1,

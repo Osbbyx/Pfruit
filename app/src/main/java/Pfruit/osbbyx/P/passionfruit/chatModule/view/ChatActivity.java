@@ -29,7 +29,7 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.chatModule.ChatPresenter;
 import Pfruit.osbbyx.P.passionfruit.chatModule.ChatPresenterClass;
 import Pfruit.osbbyx.P.passionfruit.chatModule.view.adapters.ChatAdapter;

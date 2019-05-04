@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 import Pfruit.osbbyx.P.passionfruit.addModule.AddPresenter;
 import Pfruit.osbbyx.P.passionfruit.addModule.AddPresenterClass;
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.common.utils.UtilsCommon;
 
 import butterknife.BindView;

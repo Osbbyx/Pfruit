@@ -16,7 +16,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.common.pojo.Message;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.DataSource;

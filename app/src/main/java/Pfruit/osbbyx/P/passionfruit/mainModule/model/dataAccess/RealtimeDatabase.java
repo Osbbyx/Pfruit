@@ -3,7 +3,7 @@ package Pfruit.osbbyx.P.passionfruit.mainModule.model.dataAccess;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.common.model.BasicEventsCallback;
 import Pfruit.osbbyx.P.passionfruit.common.model.dataAccess.FirebaseRealtimeDatabaseAPI;
 import Pfruit.osbbyx.P.passionfruit.common.pojo.User;

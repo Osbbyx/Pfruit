@@ -3,7 +3,7 @@ package Pfruit.osbbyx.P.passionfruit.loginModule;
 import android.app.Activity;
 import android.content.Intent;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.loginModule.events.LoginEvent;
 import Pfruit.osbbyx.P.passionfruit.loginModule.model.LoginInteractor;
 import Pfruit.osbbyx.P.passionfruit.loginModule.model.LoginInteractorClass;

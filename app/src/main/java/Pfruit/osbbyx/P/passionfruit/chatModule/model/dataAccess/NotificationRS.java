@@ -3,7 +3,7 @@ package Pfruit.osbbyx.P.passionfruit.chatModule.model.dataAccess;
 import android.net.Uri;
 import android.util.Log;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.TextingApplication;
 import Pfruit.osbbyx.P.passionfruit.chatModule.events.ChatEvent;
 import Pfruit.osbbyx.P.passionfruit.common.Constants;
@@ -23,7 +23,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class NotificationRS {
-    private static final String TEXTING_RS = "https://androidcursosant.000webhostapp.com/texting/dataAccess/TextingRS.php";
+    private static final String TEXTING_RS = "https://pfruit.000webhostapp.com/Pfruit/dataAccess/TextingRS.php";
     private static final String SEND_NOTIFICATION = "sendNotification";
 
     public void sendNotification(String title, String message, String email, String uid,

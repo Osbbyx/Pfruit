@@ -3,7 +3,7 @@ package Pfruit.osbbyx.P.passionfruit.chatModule.model.dataAccess;
 import android.app.Activity;
 import android.net.Uri;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.common.model.StorageUploadImageCallback;
 import Pfruit.osbbyx.P.passionfruit.common.model.dataAccess.FirebaseStorageAPI;
 import com.google.android.gms.tasks.OnSuccessListener;

@@ -23,7 +23,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.common.pojo.User;
 import Pfruit.osbbyx.P.passionfruit.common.utils.UtilsCommon;
 import Pfruit.osbbyx.P.passionfruit.common.utils.UtilsImage;

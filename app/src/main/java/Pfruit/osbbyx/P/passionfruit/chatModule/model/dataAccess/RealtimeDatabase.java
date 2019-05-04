@@ -3,7 +3,7 @@ package Pfruit.osbbyx.P.passionfruit.chatModule.model.dataAccess;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.chatModule.model.LastConnectionEventListener;
 import Pfruit.osbbyx.P.passionfruit.chatModule.model.MessagesEventListener;
 import Pfruit.osbbyx.P.passionfruit.chatModule.model.SendMessageListener;

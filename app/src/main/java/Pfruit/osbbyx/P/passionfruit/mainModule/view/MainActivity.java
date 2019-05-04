@@ -24,7 +24,7 @@ import android.view.MenuItem;
 import android.view.View;
 
 import Pfruit.osbbyx.P.passionfruit.addModule.view.AddFragment;
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.chatModule.view.ChatActivity;
 import Pfruit.osbbyx.P.passionfruit.common.pojo.User;
 import Pfruit.osbbyx.P.passionfruit.common.utils.UtilsCommon;

@@ -9,7 +9,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.loginModule.LoginPresenter;
 import Pfruit.osbbyx.P.passionfruit.loginModule.LoginPresenterClass;
 import Pfruit.osbbyx.P.passionfruit.mainModule.view.MainActivity;

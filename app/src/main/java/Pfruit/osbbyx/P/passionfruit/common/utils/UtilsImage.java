@@ -6,7 +6,7 @@ import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.view.View;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 
 import java.io.File;
 import java.io.FileNotFoundException;

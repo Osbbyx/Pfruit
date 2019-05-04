@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.net.Uri;
 import android.support.annotation.NonNull;
 
-import com.alain.cursos.texting.R;
+import Pfruit.osbbyx.P.passionfruit.R;
 import Pfruit.osbbyx.P.passionfruit.common.model.StorageUploadImageCallback;
 import Pfruit.osbbyx.P.passionfruit.common.model.dataAccess.FirebaseStorageAPI;
 import com.google.android.gms.tasks.OnFailureListener;
