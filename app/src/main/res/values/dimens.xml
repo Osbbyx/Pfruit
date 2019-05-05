@@ -12,7 +12,7 @@
     <dimen name="cardview_radius">2dp</dimen>
 
     <dimen name="common_border_img">1dp</dimen>
-    <dimen name="common_notify_size">24dp</dimen>
+    <dimen name="common_notify_size">50dp</dimen>
     <dimen name="common_padding_small">4dp</dimen>
 
     <dimen name="chat_margin_min">1dp</dimen>
@@ -24,7 +24,7 @@
     <dimen name="chat_size_imageDialog">96dp</dimen>
     <dimen name="chat_zoom_padding_vertical">8dp</dimen>
 
-    <dimen name="contact_image_size">48dp</dimen>
+    <dimen name="contact_image_size">56dp</dimen>
 
     <dimen name="etMessage_height">96dp</dimen>
 
@@ -39,7 +39,7 @@
 
     <dimen name="padding_dialog">24dp</dimen>
     <dimen name="padding_item_content">8dp</dimen>
-    <dimen name="padding_item_button">8dp</dimen>
+    <dimen name="padding_item_button">12dp</dimen>
     <dimen name="padding_horizontal_form">48dp</dimen>
     <dimen name="padding_message_chat">4dp</dimen>
     <dimen name="padding_vertical_imgProfile">16dp</dimen>

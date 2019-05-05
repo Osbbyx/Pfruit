@@ -22,7 +22,7 @@
             android:layout_height="@dimen/profile_size_img"
             android:src="@drawable/ic_upload"
             app:civ_border_width="@dimen/common_border_img"
-            app:civ_border_color="@color/blue_a100"/>
+            app:civ_border_color="@color/blue_gray_900"/>
 
         <ImageButton
             android:id="@+id/btnEditPhoto"

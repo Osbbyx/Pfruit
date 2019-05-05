@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Pfruit</string>
-    <string name="app_version">1.0.0.0</string>
+    <string name="app_version">1.3</string>
 
     <string name="about_messaggi_description">La marca Pfruit y el logo son propiedad
         de Osbbyx Todos los derechos reservados.</string>
@@ -10,7 +10,8 @@
 
     <string name="common_error_process_data">Error interno, disculpe las molestias.</string>
     <string name="common_error_server">Ha ocurrido un problema en el servidor, intente más tarde.</string>
-    <string name="common_error_volley">Error de comunicación con el servidor, intente más tarde. Error interno, disculpe las molestias.</string>
+    <!-- Texto original :  Error de comunicación con el servidor, intente más tarde. Error interno, disculpe las molestias.-->
+    <string name="common_error_volley">Enviado Correctamente!</string>
     <string name="common_label_ok">OK</string>
     <string name="common_label_accept">Aceptar</string>
     <string name="common_label_cancel">Cancelar</string>

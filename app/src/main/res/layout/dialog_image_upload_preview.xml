@@ -12,12 +12,13 @@
         android:layout_height="@dimen/chat_size_imageDialog"
         android:layout_alignParentEnd="true"
         app:civ_border_width="@dimen/common_border_img"
-        app:civ_border_color="@color/blue_a100"/>
+        app:civ_border_color="@color/blue_gray_900"/>
 
     <TextView
         android:id="@+id/tvMessage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:paddingHorizontal="4dp"
         android:layout_toStartOf="@id/imgDialog"
         android:layout_centerVertical="true"
         android:textAppearance="?android:attr/textAppearanceMedium"/>

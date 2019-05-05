@@ -25,7 +25,7 @@
                 android:layout_width="@dimen/common_notify_size"
                 android:layout_height="@dimen/common_notify_size"
                 android:src="@drawable/ic_emoticon_happy"
-                app:civ_border_color="@color/blue_100"
+                app:civ_border_color="@color/blue_gray_900"
                 app:civ_fill_color="@android:color/white"/>
         </android.support.v7.widget.Toolbar>
 

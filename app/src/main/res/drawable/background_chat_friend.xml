@@ -7,7 +7,7 @@
             android:dither="true"
             android:useLevel="false">
 
-            <solid android:color="#fff"/>
+            <solid android:color="#fff" />
 
             <corners
                 android:topRightRadius="50dp"
@@ -15,8 +15,9 @@
 
             <stroke
                 android:width="@dimen/common_border_img"
-                android:color="#fff"/>
+                android:color="#fff" />
         </shape>
+
     </item>
 
     <item android:state_pressed="false">
@@ -26,17 +27,16 @@
             android:dither="true"
             android:useLevel="false">
 
-            <solid android:color="#fff"/>
+            <solid android:color="#fff" />
 
             <corners
                 android:topRightRadius="50dp"
                 android:bottomRightRadius="50dp"
-                android:topLeftRadius="50dp"
-                />
+                android:topLeftRadius="50dp" />
 
             <stroke
                 android:width="@dimen/common_border_img"
-                android:color="#fff"/>
+                android:color="#fff" />
         </shape>
     </item>
 </selector>

@@ -11,8 +11,8 @@
         android:layout_marginStart="@dimen/margin_none"
         android:layout_marginEnd="@dimen/activity_horizontal_margin"
         android:src="@drawable/ic_emoticon_happy"
-        app:civ_border_color="@color/blue_a100"
-        app:civ_border_width="@dimen/common_border_img"
+
+
         app:civ_fill_color="@android:color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -29,10 +29,12 @@
 
         <TextView
             android:id="@+id/tvName"
+            android:paddingHorizontal="7dp"
             style="@style/TextViewItemUser.Large"/>
 
         <TextView
             android:id="@+id/tvStatus"
+            android:paddingHorizontal="7dp"
             style="@style/TextViewItemUser.Small"
             android:visibility="gone"/>
     </LinearLayout>

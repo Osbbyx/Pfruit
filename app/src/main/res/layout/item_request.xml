@@ -61,10 +61,12 @@
 
             <TextView
                 android:id="@+id/tvName"
+                android:paddingHorizontal="4dp"
                 style="@style/TextViewItemUser.Medium"/>
 
             <TextView
                 android:id="@+id/tvEmail"
+                android:paddingHorizontal="4dp"
                 style="@style/TextViewItemUser.Small"/>
         </LinearLayout>
     </android.support.constraint.ConstraintLayout>

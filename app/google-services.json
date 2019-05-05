@@ -8,125 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:32772882610:android:cd6643609b6b2bbf",
-        "android_client_info": {
-          "package_name": "Pfruit.osbbyx.P.passionfruit"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "32772882610-h34a85ktpm66t0b6hn92eheebtlebuln.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "Pfruit.osbbyx.P.passionfruit",
-            "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
-          }
-        },
-        {
-          "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCAFzYqz-Ee82kJgA3_DBw2ChVQ4rSgv6w"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:32772882610:android:ac56c5813acbd6ec",
-        "android_client_info": {
-          "package_name": "Pfruit.osbbyx.passionfruit"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "32772882610-fn8uef9v61umo3o9u54p4o70d2hhtovc.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "Pfruit.osbbyx.passionfruit",
-            "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
-          }
-        },
-        {
-          "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCAFzYqz-Ee82kJgA3_DBw2ChVQ4rSgv6w"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:32772882610:android:d4ada06c0e3de3e1",
-        "android_client_info": {
-          "package_name": "com.alain.cursos.texting"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "32772882610-n7kp3qmllcmv8t09rq9s3bmulcl2h3j1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.alain.cursos.texting",
-            "certificate_hash": "4d6ac01e529562414174af77e53c4d909044f05e"
-          }
-        },
-        {
-          "client_id": "32772882610-ni28c9dtpksdv1ncajcdknsosj7hv34n.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.alain.cursos.texting",
-            "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
-          }
-        },
-        {
-          "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCAFzYqz-Ee82kJgA3_DBw2ChVQ4rSgv6w"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:32772882610:android:87f759509120f0b9",
         "android_client_info": {
           "package_name": "pfruit.osbbyx.passionfruit"
@@ -134,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "32772882610-t4ev3301n6jgf6kj8njntlcsdkj1u39s.apps.googleusercontent.com",
+          "client_id": "32772882610-afj60so50p0ja4b2j0cjiqj9i3ve1a5b.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "pfruit.osbbyx.passionfruit",
@@ -142,40 +23,11 @@
           }
         },
         {
-          "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCAFzYqz-Ee82kJgA3_DBw2ChVQ4rSgv6w"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "32772882610-hb4vtcnh3r5a6kbhqgnu3b89cs2iuiq1.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:32772882610:android:f88692208d4082f7",
-        "android_client_info": {
-          "package_name": "secrethood.osbbyx.secrethood"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "32772882610-9306bl0o0nritdpp0smgl4vnlq964n9l.apps.googleusercontent.com",
+          "client_id": "32772882610-ehd014p9up5m6hp1pmvcq6odu59e4dq2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "secrethood.osbbyx.secrethood",
-            "certificate_hash": "bdef83e9d962f4b1b77acede814b098a88a4a990"
+            "package_name": "pfruit.osbbyx.passionfruit",
+            "certificate_hash": "6aef3574767dd1df8b5152f074878ee3aaa674fc"
           }
         },
         {
