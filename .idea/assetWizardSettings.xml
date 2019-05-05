@@ -58,6 +58,17 @@
                                 <PersistentState>
                                   <option name="children">
                                     <map>
+                                      <entry key="backgroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="0" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="foregroundClipArt">
                                         <value>
                                           <PersistentState>
@@ -75,7 +86,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="scalingPercent" value="51" />
+                                                <entry key="scalingPercent" value="57" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -86,7 +97,20 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="color" value="000000" />
+                                                <entry key="color" value="abe4ff" />
+                                                <entry key="scalingPercent" value="164" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                      <entry key="foregroundTextAsset">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="fontFamily" value="Berlin Sans FB Demi" />
+                                                <entry key="text" value="." />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -97,6 +121,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="d3d46e" />
                                       <entry key="backgroundImage" value="D:\Pfruit.png" />
                                       <entry key="foregroundImage" value="D:\Pfruit.png" />
                                     </map>
@@ -163,11 +188,6 @@
                                 </PersistentState>
                               </value>
                             </entry>
-                          </map>
-                        </option>
-                        <option name="values">
-                          <map>
-                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>
