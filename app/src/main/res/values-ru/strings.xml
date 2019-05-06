@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pfruit</string>
+    <string name="app_version">1.3</string>
+
+    <string name="about_messaggi_description">Торговая марка Pfruit и логотип являются собственностью Osbbyx. Все права защищены.</string>
+    <string name="about_privacy">Уведомление о конфиденциальности</string>
+    <string name="about_version">Версия:</string>
+    <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
+
+    <string name="common_error_process_data">Внутренняя ошибка, извините за неудобства.</string>
+    <string name="common_error_server">На сервере возникла проблема, попробуйте позже.</string>
+    <!-- Original text: Communication error with the server, try later. Internal error, sorry for the inconvenience.-->
+    <string name="common_error_volley">Отправлено успешно!</string>
+    <string name="common_label_ok">Хорошо</string>
+    <string name="common_label_accept">принимать</string>
+    <string name="common_label_cancel">отменить</string>
+    <string name="common_label_email">Эл. адрес</string>
+    <string name="common_message_noInternet">Без доступа в интернет, проверьте подключение</string>
+    <string name="common_validate_field_required">Это поле обязательно к заполнению.</string>
+    <string name="common_validate_email_invalid">Это письмо не имеет правильного формата, проверьте.</string>
+
+    <string name="description_img_sendMessage">Отправить сообщение</string>
+    <string name="description_img_gellery">Выберите изображение из галереи.</string>
+    <string name="description_img_profile">Изображение профиля пользователя.</string>
+
+    <string name="addFriend_error_message">Невозможно отправить запрос, попробуйте позже.</string>
+    <string name="addFriend_message_request_dispatched">Успешно отправленный запрос</string>
+    <string name="addFriend_title">Добавить в друзья</string>
+
+    <string name="chat_dialog_sendImage_title">Отправить изображение</string>
+    <string name="chat_dialog_sendImage_message">Вы хотите отправить это изображение %s?</string>
+    <string name="chat_dialog_sendImage_accept">послать</string>
+    <string name="chat_error_imageUpload">Ошибка при отправке изображения, попробуйте позже.</string>
+    <string name="chat_error_method_not_exist">Невозможно уведомить пользователя, обратитесь к администратору.</string>
+    <string name="chat_error_permission_denied">Вы больше не дружите с этим человеком, отправьте другой запрос, чтобы поговорить снова.</string>
+    <string name="chat_status_connected">Связано</string>
+    <string name="chat_status_last_connection">Последнее соединение: %s</string>
+    <string name="chat_title">чат</string>
+
+    <string name="login_error_user_exist">Новый пользователь, регистрация&#8230;></string>
+    <string name="login_message_loading">Вход в систему&#8230;</string>
+    <string name="login_message_starting">Готовим все&#8230;</string>
+    <string name="login_message_error">Невозможно войти, попробуйте позже.</string>
+    <string name="login_message_success">Добро пожаловать! %s</string>
+
+    <string name="main_dialog_accept">удалять</string>
+    <string name="main_dialog_message_confirmDelete">Вы уверены, что хотите удалить %s от твоих друзей?
+        \nВаши разговоры не будут удалены навсегда.</string>
+    <string name="main_dialog_title_confirmDelete">Удалить друга</string>
+    <string name="main_error_permission_denied">закрытие&#8230;</string>
+    <string name="main_item_max_messageUnread">99+</string>
+    <string name="main_menu_about">Около</string>
+    <string name="main_menu_action_singoff">выйти</string>
+    <string name="main_message_request_accepted">Сейчас %s и вы друзья.</string>
+    <string name="main_message_request_denied">Отклоненный запрос.</string>
+    <string name="main_message_user_removed">Готовы! Они больше не друзья.</string>
+    <string name="main_title">друзья</string>
+    <string name="main_tuto_message">Здесь вы можете добавить своих друзей, используя вашу электронную почту.\nВам нужно будет только принять ваш запрос на добавление в друзья.</string>
+    <string name="main_tuto_ok">понят.</string>
+    <string name="main_tuto_fabAdd">mainFabAdd00</string>
+
+    <string name="profile_title">Профиль</string>
+    <string name="profile_dialog_title">Обновить изображение профиля</string>
+    <string name="profile_dialog_message">Вы хотите загрузить это изображение в свой профиль пользователя?</string>
+    <string name="profile_dialog_accept">Загрузить</string>
+    <string name="profile_error_userUpdated">Ошибка обновления пользователя, попробуйте позже.</string>
+    <string name="profile_error_imageUpdated">Не удалось обновить изображение профиля. Попробуйте позже.</string>
+    <string name="profile_error_invalid_image">Это изображение не может быть обработано.</string>
+    <string name="profile_error_notfound">Изображение / файл не найден.</string>
+    <string name="profile_hint_username">имя пользователя</string>
+    <string name="profile_message_userUpdated">Пользователь обновлен правильно.</string>
+    <string name="profile_message_imageUploading">Изменение изображения профиля, подождите&#8230;</string>
+    <string name="profile_message_imageUpdated">Изображение профиля успешно обновлено.</string>
+
+</resources>

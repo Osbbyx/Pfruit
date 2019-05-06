@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pfruit</string>
+    <string name="app_version">1.3</string>
+
+    <string name="about_messaggi_description">Pfruit ब्रांड और लोगो Osbb की संपत्ति हैं। सर्वाधिकार सुरक्षित।</string>
+    <string name="about_privacy">गोपनीयता की सूचना</string>
+    <string name="about_version">संस्करण:</string>
+    <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
+
+    <string name="common_error_process_data">आंतरिक त्रुटि, असुविधा के लिए खेद है।</string>
+    <string name="common_error_server">सर्वर पर एक समस्या हुई है, बाद में प्रयास करें।</string>
+    <!-- Original text: Communication error with the server, try later. Internal error, sorry for the inconvenience.-->
+    <string name="common_error_volley">सफलतापूर्वक जमा!</string>
+    <string name="common_label_ok">ठीक</string>
+    <string name="common_label_accept">स्वीकार करना</string>
+    <string name="common_label_cancel">रद्द करना</string>
+    <string name="common_label_email">ईमेल</string>
+    <string name="common_message_noInternet">इंटरनेट एक्सेस के बिना, अपने कनेक्शन को सत्यापित करें</string>
+    <string name="common_validate_field_required">यह फ़ील्ड आवश्यक है।</string>
+    <string name="common_validate_email_invalid">इस ईमेल में एक मान्य प्रारूप नहीं है, जाँच करें।</string>
+
+    <string name="description_img_sendMessage">मेसेज भेजें</string>
+    <string name="description_img_gellery">गैलरी से छवि का चयन करें।</string>
+    <string name="description_img_profile">उपयोगकर्ता प्रोफ़ाइल छवि।</string>
+
+    <string name="addFriend_error_message">अनुरोध भेजने में असंभव, बाद में प्रयास करें।</string>
+    <string name="addFriend_message_request_dispatched">सफलतापूर्वक अनुरोध सबमिट किया गया</string>
+    <string name="addFriend_title">दोस्त जोड़ें</string>
+
+    <string name="chat_dialog_sendImage_title">छवि भेजें</string>
+    <string name="chat_dialog_sendImage_message">क्या आप इस छवि को भेजना चाहते हैं %s?</string>
+    <string name="chat_dialog_sendImage_accept">भेजना</string>
+    <string name="chat_error_imageUpload">छवि भेजने में त्रुटि, बाद में प्रयास करें।</string>
+    <string name="chat_error_method_not_exist">उपयोगकर्ता को सूचित करना असंभव है, अपने व्यवस्थापक से संपर्क करें।</string>
+    <string name="chat_error_permission_denied">अब आप इस व्यक्ति के मित्र नहीं हैं, फिर से बात करने के लिए एक और अनुरोध भेजें।</string>
+    <string name="chat_status_connected">जुड़े हुए</string>
+    <string name="chat_status_last_connection">अंतिम कनेक्शन: %s</string>
+    <string name="chat_title">बातचीत</string>
+
+    <string name="login_error_user_exist">नया उपयोगकर्ता, पंजीकरण&#8230;></string>
+    <string name="login_message_loading">प्रवेश किया&#8230;</string>
+    <string name="login_message_starting">सब कुछ तैयार करना&#8230;</string>
+    <string name="login_message_error">लॉगिन करने में असंभव, बाद में प्रयास करें।</string>
+    <string name="login_message_success">स्वागत हे! %s</string>
+
+    <string name="main_dialog_accept">हटाना</string>
+    <string name="main_dialog_message_confirmDelete">क्या आप सचमुच हटाना चाहते हैं %s अपने दोस्तों से?
+        \nआपकी बातचीत स्थायी रूप से नष्ट नहीं की जाएगी।</string>
+    <string name="main_dialog_title_confirmDelete">मित्र को हटाएं</string>
+    <string name="main_error_permission_denied">समापन&#8230;</string>
+    <string name="main_item_max_messageUnread">99+</string>
+    <string name="main_menu_about">के बारे में</string>
+    <string name="main_menu_action_singoff">log out</string>
+    <string name="main_message_request_accepted">अभी व %s और आप दोस्त हैं</string>
+    <string name="main_message_request_denied">अस्वीकृत अनुरोध।</string>
+    <string name="main_message_user_removed">तैयार! वे अब दोस्त नहीं हैं।</string>
+    <string name="main_title">दोस्त</string>
+    <string name="main_tuto_message">यहां आप अपने दोस्तों को जोड़ सकते हैं, अपने ईमेल का उपयोग कर सकते हैं।\nआपको केवल अपने मित्र अनुरोध को स्वीकार करने की आवश्यकता होगी।</string>
+    <string name="main_tuto_ok">समझ लिया।</string>
+    <string name="main_tuto_fabAdd">mainFabAdd00</string>
+
+    <string name="profile_title">प्रोफाइल</string>
+    <string name="profile_dialog_title">प्रोफ़ाइल छवि अपडेट करें</string>
+    <string name="profile_dialog_message">क्या आप इस छवि को अपने उपयोगकर्ता प्रोफ़ाइल पर अपलोड करना चाहते हैं?</string>
+    <string name="profile_dialog_accept">अपलोड</string>
+    <string name="profile_error_userUpdated">उपयोगकर्ता को अपडेट करने में त्रुटि, बाद में प्रयास करें।</string>
+    <string name="profile_error_imageUpdated">प्रोफ़ाइल छवि को अपडेट करने में विफल। बाद में पुन: प्रयास करें।</string>
+    <string name="profile_error_invalid_image">इस छवि को संसाधित नहीं किया जा सका।</string>
+    <string name="profile_error_notfound">छवि / फ़ाइल नहीं मिली।</string>
+    <string name="profile_hint_username">उपयोगकर्ता नाम</string>
+    <string name="profile_message_userUpdated">उपयोगकर्ता सही तरीके से अपडेट किया गया।</string>
+    <string name="profile_message_imageUploading">प्रोफ़ाइल छवि बदलना, प्रतीक्षा करें&#8230;</string>
+    <string name="profile_message_imageUpdated">प्रोफ़ाइल छवि सफलतापूर्वक अपडेट की गई।</string>
+
+</resources>

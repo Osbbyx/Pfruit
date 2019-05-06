@@ -24,7 +24,7 @@
     <string name="description_img_gellery">Seleccionar imagen desde la Galería.</string>
     <string name="description_img_profile">Imagen de perfil de usuario.</string>
 
-    <string name="addFriend_error_message">Imposible enviar solicitud, intende más tarde.</string>
+    <string name="addFriend_error_message">Imposible enviar solicitud, intente más tarde.</string>
     <string name="addFriend_message_request_dispatched">Solicitud enviada exitosamente</string>
     <string name="addFriend_title">Añadir amigo</string>
 

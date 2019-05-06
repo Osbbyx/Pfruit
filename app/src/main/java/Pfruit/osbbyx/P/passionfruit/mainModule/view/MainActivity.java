@@ -188,7 +188,7 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         Intent intent = new Intent(Intent.ACTION_VIEW,
-                                Uri.parse("https://policity.cursos-android-ant.com"));
+                                Uri.parse("https://sites.google.com/view/secrethood/privacy-policy"));
                         startActivity(intent);
                     }
                 });

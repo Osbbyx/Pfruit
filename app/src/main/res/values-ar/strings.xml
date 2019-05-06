@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pfruit</string>
+    <string name="app_version">1.3</string>
+
+    <string name="about_messaggi_description">العلامة التجارية Pfruit والشعار هي ملك Osbbyx. كل الحقوق محفوظة.</string>
+    <string name="about_privacy">إشعار الخصوصية</string>
+    <string name="about_version">الإصدار:</string>
+    <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
+
+    <string name="common_error_process_data">خطأ داخلي ، آسف للإزعاج.</string>
+    <string name="common_error_server">حدثت مشكلة على الخادم ، حاول لاحقًا.</string>
+    <!-- Original text: Communication error with the server, try later. Internal error, sorry for the inconvenience.-->
+    <string name="common_error_volley">تم الإرسال بنجاح!</string>
+    <string name="common_label_ok">حسنا</string>
+    <string name="common_label_accept">قبول</string>
+    <string name="common_label_cancel">إلغاء</string>
+    <string name="common_label_email">البريد الإلكتروني</string>
+    <string name="common_message_noInternet">بدون الوصول إلى الإنترنت ، تحقق من اتصالك</string>
+    <string name="common_validate_field_required">هذه الخانة مطلوبه.</string>
+    <string name="common_validate_email_invalid">لا يحتوي هذا البريد الإلكتروني على تنسيق صحيح ، تحقق.</string>
+
+    <string name="description_img_sendMessage">إرسال رسالة</string>
+    <string name="description_img_gellery">اختر صورة من المعرض.</string>
+    <string name="description_img_profile">صورة الملف الشخصي للمستخدم.</string>
+
+    <string name="addFriend_error_message">من المستحيل إرسال الطلب ، حاول لاحقًا.</string>
+    <string name="addFriend_message_request_dispatched">تم تقديم الطلب بنجاح</string>
+    <string name="addFriend_title">أضف صديق</string>
+
+    <string name="chat_dialog_sendImage_title">إرسال صورة</string>
+    <string name="chat_dialog_sendImage_message">%s هل تريد إرسال هذه الصورة إلى</string>
+    <string name="chat_dialog_sendImage_accept">إرسال</string>
+    <string name="chat_error_imageUpload">خطأ في إرسال الصورة ، حاول لاحقًا.</string>
+    <string name="chat_error_method_not_exist">من المستحيل إخطار المستخدم ، اتصل بالمسؤول.</string>
+    <string name="chat_error_permission_denied">لم تعد صديقًا لهذا الشخص ، أرسل طلبًا آخر للتحدث مرة أخرى.</string>
+    <string name="chat_status_connected">متصل</string>
+    <string name="chat_status_last_connection">آخر اتصال: s%</string>
+    <string name="chat_title">دردشة</string>
+
+    <string name="login_error_user_exist">مستخدم جديد ، تسجيل&#8230;></string>
+    <string name="login_message_loading">تسجيل الدخول&#8230;</string>
+    <string name="login_message_starting">تحضير كل شيء&#8230;</string>
+    <string name="login_message_error">من المستحيل تسجيل الدخول ، حاول لاحقًا.</string>
+    <string name="login_message_success">أهلا بك! s%</string>
+
+    <string name="main_dialog_accept">حذف</string>
+    <string name="main_dialog_message_confirmDelete">هل أنت متأكد من أنك تريد إزالة s% من أصدقائك?
+        \nلن يتم حذف محادثاتك نهائيًا.</string>
+    <string name="main_dialog_title_confirmDelete">حذف الصديق</string>
+    <string name="main_error_permission_denied">إغلاق&#8230;</string>
+    <string name="main_item_max_messageUnread">99+</string>
+    <string name="main_menu_about">حول</string>
+    <string name="main_menu_action_singoff">الخروج</string>
+    <string name="main_message_request_accepted">الآن s% وأنت أصدقاء.</string>
+    <string name="main_message_request_denied">طلب مرفوض.</string>
+    <string name="main_message_user_removed">جاهز! ليسوا أصدقاء بعد الآن.</string>
+    <string name="main_title">اصحاب</string>
+    <string name="main_tuto_message">هنا يمكنك إضافة أصدقائك ، واستخدام البريد الإلكتروني الخاص بك.n/سوف تحتاج فقط إلى قبول طلب صديقك.</string>
+    <string name="main_tuto_ok">يفهم.</string>
+    <string name="main_tuto_fabAdd">mainFabAdd00</string>
+
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="profile_dialog_title">تحديث صورة الملف الشخصي</string>
+    <string name="profile_dialog_message">هل تريد تحميل هذه الصورة إلى ملف تعريف المستخدم الخاص بك؟</string>
+    <string name="profile_dialog_accept">رفع</string>
+    <string name="profile_error_userUpdated">خطأ في تحديث المستخدم ، حاول لاحقًا.</string>
+    <string name="profile_error_imageUpdated">فشل في تحديث صورة الملف الشخصي. حاول مرة أخرى في وقت لاحق.</string>
+    <string name="profile_error_invalid_image">لا يمكن معالجة هذه الصورة.</string>
+    <string name="profile_error_notfound">لم يتم العثور على الصورة / الملف.</string>
+    <string name="profile_hint_username">اسم المستخدم</string>
+    <string name="profile_message_userUpdated">تحديث المستخدم بشكل صحيح.</string>
+    <string name="profile_message_imageUploading">تغيير صورة الملف الشخصي ، انتظر&#8230;</string>
+    <string name="profile_message_imageUpdated">تم تحديث صورة الملف الشخصي بنجاح.</string>
+
+</resources>

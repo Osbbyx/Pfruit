@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pfruit</string>
+    <string name="app_version">1.3</string>
+
+    <string name="about_messaggi_description">Pfruit品牌和徽標是Osbbyx的財產。 版權所有。</string>
+    <string name="about_privacy">隱私通知</string>
+    <string name="about_version">版：</string>
+    <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
+
+    <string name="common_error_process_data">內部錯誤，遺憾給您帶來不便。</string>
+    <string name="common_error_server">服務器上出現問題，請稍後再試。</string>
+    <!-- Original text: Communication error with the server, try later. Internal error, sorry for the inconvenience.-->
+    <string name="common_error_volley">提交成功！</string>
+    <string name="common_label_ok">好</string>
+    <string name="common_label_accept">接受</string>
+    <string name="common_label_cancel">取消</string>
+    <string name="common_label_email">電子郵件</string>
+    <string name="common_message_noInternet">沒有互聯網訪問，請驗證您的連接</string>
+    <string name="common_validate_field_required">這是必填欄。</string>
+    <string name="common_validate_email_invalid">此電子郵件沒有有效格式，請檢查。</string>
+
+    <string name="description_img_sendMessage">發信息</string>
+    <string name="description_img_gellery">從圖庫中選擇圖像。</string>
+    <string name="description_img_profile">用戶個人資料圖片</string>
+
+    <string name="addFriend_error_message">無法發送請求，請稍後再試。</string>
+    <string name="addFriend_message_request_dispatched">成功提交了請求</string>
+    <string name="addFriend_title">添加好友</string>
+
+    <string name="chat_dialog_sendImage_title">發送圖片</string>
+    <string name="chat_dialog_sendImage_message">要將此圖像發送給 %s?</string>
+    <string name="chat_dialog_sendImage_accept">發送</string>
+    <string name="chat_error_imageUpload">發送圖像時出錯，請稍後再試。</string>
+    <string name="chat_error_method_not_exist">無法通知用戶，請與您的管理員聯繫。</string>
+    <string name="chat_error_permission_denied">你不再是這個人的朋友，再發一次請求再談。</string>
+    <string name="chat_status_connected">連接的</string>
+    <string name="chat_status_last_connection">最後連接： %s</string>
+    <string name="chat_title">聊</string>
+
+    <string name="login_error_user_exist">新用戶，註冊&#8230;></string>
+    <string name="login_message_loading">在登錄&#8230;</string>
+    <string name="login_message_starting">準備一切&#8230;</string>
+    <string name="login_message_error">無法登錄，請稍後再試。</string>
+    <string name="login_message_success">歡迎！ %s</string>
+
+    <string name="main_dialog_accept">Delete</string>
+    <string name="main_dialog_message_confirmDelete">你確定要刪除嗎 %s 來自你的朋友？
+        \n您的會話不會被永久刪除。</string>
+    <string name="main_dialog_title_confirmDelete">刪除朋友</string>
+    <string name="main_error_permission_denied">閉幕&#8230;</string>
+    <string name="main_item_max_messageUnread">99+</string>
+    <string name="main_menu_about">關於</string>
+    <string name="main_menu_action_singoff">登出</string>
+    <string name="main_message_request_accepted">現在 %s 你是朋友</string>
+    <string name="main_message_request_denied">被拒絕的請求。</string>
+    <string name="main_message_user_removed">準備！ 他們不再是朋友了。</string>
+    <string name="main_title">朋友</string>
+    <string name="main_tuto_message">在這裡你可以添加你的朋友，使用你的電子郵件。\n您只需要接受您的朋友請求。</string>
+    <string name="main_tuto_ok">了解.</string>
+    <string name="main_tuto_fabAdd">mainFabAdd00</string>
+
+    <string name="profile_title">輪廓</string>
+    <string name="profile_dialog_title">更新個人資料圖片</string>
+    <string name="profile_dialog_message">要將此圖像上傳到您的用戶個人資料嗎？</string>
+    <string name="profile_dialog_accept">上傳</string>
+    <string name="profile_error_userUpdated">更新用戶時出錯，請稍後再試。</string>
+    <string name="profile_error_imageUpdated">無法更新個人資料圖片。 稍後再試。</string>
+    <string name="profile_error_invalid_image">無法處理此圖像。</string>
+    <string name="profile_error_notfound">找不到圖像/文件。</string>
+    <string name="profile_hint_username">用戶名</string>
+    <string name="profile_message_userUpdated">用戶更新正確。</string>
+    <string name="profile_message_imageUploading">更改個人資料圖片，等待&#8230;</string>
+    <string name="profile_message_imageUpdated">檔案圖片已成功更新。</string>
+
+</resources>

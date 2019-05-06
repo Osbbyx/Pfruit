@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pfruit</string>
+    <string name="app_version">1.3</string>
+
+    <string name="about_messaggi_description">Pfruit 브랜드와 로고는 Osbbyx의 자산입니다. 판권 소유.</string>
+    <string name="about_privacy">프라이버시 통지</string>
+    <string name="about_version">번역:</string>
+    <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
+
+    <string name="common_error_process_data">내부 오류, 불편을 끼쳐 드려 죄송합니다.</string>
+    <string name="common_error_server">서버에서 문제가 발생했습니다. 나중에 시도하십시오.</string>
+    <!-- Original text: Communication error with the server, try later. Internal error, sorry for the inconvenience.-->
+    <string name="common_error_volley">성공적으로 제출되었습니다!</string>
+    <string name="common_label_ok">승인</string>
+    <string name="common_label_accept">동의</string>
+    <string name="common_label_cancel">취소</string>
+    <string name="common_label_email">이메일</string>
+    <string name="common_message_noInternet">인터넷에 연결되어 있지 않으면 연결 상태를 확인하십시오.</string>
+    <string name="common_validate_field_required">이 입력란은 필수 항목입니다.</string>
+    <string name="common_validate_email_invalid">이 이메일에는 유효한 형식 인 check가 없습니다.</string>
+
+    <string name="description_img_sendMessage">문자 보내</string>
+    <string name="description_img_gellery">갤러리에서 이미지를 선택하십시오.</string>
+    <string name="description_img_profile">사용자 프로필 이미지.</string>
+
+    <string name="addFriend_error_message">요청을 보낼 수 없으므로 나중에 시도하십시오.</string>
+    <string name="addFriend_message_request_dispatched">요청을 제출했습니다.</string>
+    <string name="addFriend_title">친구 추가</string>
+
+    <string name="chat_dialog_sendImage_title">이미지 보내기</string>
+    <string name="chat_dialog_sendImage_message">이 이미지를 보내시겠습니까 %s?</string>
+    <string name="chat_dialog_sendImage_accept">보내다</string>
+    <string name="chat_error_imageUpload">이미지 전송 중 오류가 발생했습니다. 나중에 시도하십시오.</string>
+    <string name="chat_error_method_not_exist">사용자에게 알릴 수없는 경우 관리자에게 문의하십시오.</string>
+    <string name="chat_error_permission_denied">더 이상이 사람과 친구가 아니며 다시 대화를 다시 요청하십시오.</string>
+    <string name="chat_status_connected">연결됨</string>
+    <string name="chat_status_last_connection">마지막 연결 : %s</string>
+    <string name="chat_title">잡담</string>
+
+    <string name="login_error_user_exist">새로운 사용자, 등록&#8230;></string>
+    <string name="login_message_loading">로그인 중&#8230;</string>
+    <string name="login_message_starting">모든 준비&#8230;</string>
+    <string name="login_message_error">로그인 할 수 없으면 나중에 시도하십시오.</string>
+    <string name="login_message_success">환영! %s</string>
+
+    <string name="main_dialog_accept">지우다</string>
+    <string name="main_dialog_message_confirmDelete">제거 하시겠습니까 %s 너 친구에게서?
+        \n대화가 영구적으로 삭제되지는 않습니다.</string>
+    <string name="main_dialog_title_confirmDelete">친구 삭제</string>
+    <string name="main_error_permission_denied">폐쇄&#8230;</string>
+    <string name="main_item_max_messageUnread">99+</string>
+    <string name="main_menu_about">약</string>
+    <string name="main_menu_action_singoff">로그 아웃</string>
+    <string name="main_message_request_accepted">지금 %s 너는 친구 야.</string>
+    <string name="main_message_request_denied">거부 된 요청입니다.</string>
+    <string name="main_message_user_removed">준비된! 그들은 더 이상 친구가 아닙니다.</string>
+    <string name="main_title">친구</string>
+    <string name="main_tuto_message">여기에 친구를 추가하고 이메일을 사용할 수 있습니다\n친구 요청을 수락하기 만하면됩니다.</string>
+    <string name="main_tuto_ok">이해했다.</string>
+    <string name="main_tuto_fabAdd">mainFabAdd00</string>
+
+    <string name="profile_title">윤곽</string>
+    <string name="profile_dialog_title">프로파일 이미지 업데이트</string>
+    <string name="profile_dialog_message">이 이미지를 사용자 프로필에 업로드 하시겠습니까?</string>
+    <string name="profile_dialog_accept">업로드</string>
+    <string name="profile_error_userUpdated">사용자를 업데이트하는 동안 오류가 발생했습니다. 나중에 시도하십시오.</string>
+    <string name="profile_error_imageUpdated">프로필 이미지를 업데이트하지 못했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="profile_error_invalid_image">이 이미지를 처리 할 수 없습니다.</string>
+    <string name="profile_error_notfound">이미지 / 파일을 찾을 수 없습니다.</string>
+    <string name="profile_hint_username">사용자 이름</string>
+    <string name="profile_message_userUpdated">사용자가 올바르게 업데이트되었습니다.</string>
+    <string name="profile_message_imageUploading">프로필 이미지 변경 중&#8230;</string>
+    <string name="profile_message_imageUpdated">프로필 이미지가 성공적으로 업데이트되었습니다.</string>
+
+</resources>

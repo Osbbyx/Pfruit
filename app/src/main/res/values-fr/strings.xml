@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pfruit</string>
+    <string name="app_version">1.3</string>
+
+    <string name="about_messaggi_description">La marque Pfruit et le logo sont la propriété d’Osbbyx. Tous les droits sont réservés.</string>
+    <string name="about_privacy">Avis de confidentialité</string>
+    <string name="about_version">Version:</string>
+    <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
+
+    <string name="common_error_process_data">Erreur interne, désolé pour le désagrément.</string>
+    <string name="common_error_server">Un problème est survenu sur le serveur, essayez plus tard.</string>
+    <!-- Original text: Communication error with the server, try later. Internal error, sorry for the inconvenience.-->
+    <string name="common_error_volley">Soumis avec succès!</string>
+    <string name="common_label_ok">OK</string>
+    <string name="common_label_accept">Acceptez</string>
+    <string name="common_label_cancel">Annuler</string>
+    <string name="common_label_email">Email</string>
+    <string name="common_message_noInternet">Sans accès Internet, vérifiez votre connexion</string>
+    <string name="common_validate_field_required">Ce champ est requis.</string>
+    <string name="common_validate_email_invalid">Cet email n a pas un format valide, vérifiez.</string>
+
+    <string name="description_img_sendMessage">Envoyer le message</string>
+    <string name="description_img_gellery">Sélectionnez une image dans la galerie.</string>
+    <string name="description_img_profile">Image de profil utilisateur.</string>
+
+    <string name="addFriend_error_message">Impossible d envoyer une demande, essayez plus tard.</string>
+    <string name="addFriend_message_request_dispatched">Demande soumise avec succès</string>
+    <string name="addFriend_title">Ajouter un ami</string>
+
+    <string name="chat_dialog_sendImage_title">Envoyer une image</string>
+    <string name="chat_dialog_sendImage_message">Voulez-vous envoyer cette image à %s?</string>
+    <string name="chat_dialog_sendImage_accept">Envoyer</string>
+    <string name="chat_error_imageUpload">Erreur lors de l envoi de l image, essayez plus tard.</string>
+    <string name="chat_error_method_not_exist">Impossible de prévenir l utilisateur, contactez votre administrateur.</string>
+    <string name="chat_error_permission_denied">Vous n êtes plus ami avec cette personne, envoyez une autre demande pour parler à nouveau.</string>
+    <string name="chat_status_connected">Connecté</string>
+    <string name="chat_status_last_connection">Dernière connexion: %s</string>
+    <string name="chat_title">Chat</string>
+
+    <string name="login_error_user_exist">Nouvel utilisateur, enregistrement&#8230;></string>
+    <string name="login_message_loading">Se connecter&#8230;</string>
+    <string name="login_message_starting">Tout préparer&#8230;</string>
+    <string name="login_message_error">Impossible de se connecter, essayez plus tard.</string>
+    <string name="login_message_success">Bienvenue! %s</string>
+
+    <string name="main_dialog_accept">Effacer</string>
+    <string name="main_dialog_message_confirmDelete">Êtes-vous sûr de vouloir supprimer%s de vos amis?
+        \nVos conversations ne seront pas définitivement supprimées.</string>
+    <string name="main_dialog_title_confirmDelete">Supprimer un ami</string>
+    <string name="main_error_permission_denied">Fermeture&#8230;</string>
+    <string name="main_item_max_messageUnread">99+</string>
+    <string name="main_menu_about">Sur</string>
+    <string name="main_menu_action_singoff">Connectez - Out</string>
+    <string name="main_message_request_accepted">Maintenant %s et vous êtes amis.</string>
+    <string name="main_message_request_denied">Demande rejetée.</string>
+    <string name="main_message_user_removed">Prêt! Ils ne sont plus amis.</string>
+    <string name="main_title">copains/ines</string>
+    <string name="main_tuto_message">Ici vous pouvez ajouter vos amis, utilisez votre email.\nVous devrez seulement accepter votre demande d ami.</string>
+    <string name="main_tuto_ok">compris.</string>
+    <string name="main_tuto_fabAdd">mainFabAdd00</string>
+
+    <string name="profile_title">Profil</string>
+    <string name="profile_dialog_title">Mettre à jour l image de profil</string>
+    <string name="profile_dialog_message">Voulez-vous télécharger cette image sur votre profil d utilisateur?</string>
+    <string name="profile_dialog_accept">Télécharger</string>
+    <string name="profile_error_userUpdated">Erreur lors de la mise à jour de l utilisateur, essayez plus tard.</string>
+    <string name="profile_error_imageUpdated">Échec de la mise à jour de l image de profil. Réessayez plus tard.</string>
+    <string name="profile_error_invalid_image">Cette image n a pas pu être traitée.</string>
+    <string name="profile_error_notfound">Image / fichier non trouvé.</string>
+    <string name="profile_hint_username">username</string>
+    <string name="profile_message_userUpdated">Utilisateur mis à jour correctement.</string>
+    <string name="profile_message_imageUploading">Changer l image de profil, attendez&#8230;</string>
+    <string name="profile_message_imageUpdated">Image de profil mise à jour avec succès.</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pfruit</string>
+    <string name="app_version">1.3</string>
+
+    <string name="about_messaggi_description">PfruitブランドとロゴはOsbbyxの財産です。 全著作権所有。</string>
+    <string name="about_privacy">プライバシーのお知らせ</string>
+    <string name="about_version">バージョン:</string>
+    <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
+
+    <string name="common_error_process_data">内部エラー、ご不便をおかけして申し訳ありません。</string>
+    <string name="common_error_server">サーバーで問題が発生しました。しばらくしてからもう一度試してください。</string>
+    <!-- Original text: Communication error with the server, try later. Internal error, sorry for the inconvenience.-->
+    <string name="common_error_volley">正常に送信されました。</string>
+    <string name="common_label_ok">OK</string>
+    <string name="common_label_accept">受け入れる</string>
+    <string name="common_label_cancel">キャンセル</string>
+    <string name="common_label_email">Eメール</string>
+    <string name="common_message_noInternet">インターネットにアクセスできない場合は、接続を確認してください</string>
+    <string name="common_validate_field_required">この項目は必須です。</string>
+    <string name="common_validate_email_invalid">このメールの形式は無効です、確認してください。</string>
+
+    <string name="description_img_sendMessage">メッセージを送る</string>
+    <string name="description_img_gellery">ギャラリーから画像を選択してください。</string>
+    <string name="description_img_profile">ユーザープロフィール画像。</string>
+
+    <string name="addFriend_error_message">リクエストを送信できません。後で試してください。</string>
+    <string name="addFriend_message_request_dispatched">リクエストを送信しました</string>
+    <string name="addFriend_title">友人を追加する</string>
+
+    <string name="chat_dialog_sendImage_title">画像を送る</string>
+    <string name="chat_dialog_sendImage_message">この画像をに送信しますか %s?</string>
+    <string name="chat_dialog_sendImage_accept">送る</string>
+    <string name="chat_error_imageUpload">画像の送信中にエラーが発生しました。しばらくしてからもう一度試してください。</string>
+    <string name="chat_error_method_not_exist">ユーザーに通知することはできません。管理者に連絡してください。</string>
+    <string name="chat_error_permission_denied">あなたはもうこの人と友達ではありません、もう一度話すために別の要求を送信</string>
+    <string name="chat_status_connected">接続済み</string>
+    <string name="chat_status_last_connection">最後の接続： %s</string>
+    <string name="chat_title">チャット</string>
+
+    <string name="login_error_user_exist">新規ユーザー、登録中&#8230;></string>
+    <string name="login_message_loading">ログイン中&#8230;</string>
+    <string name="login_message_starting">すべてを準備する&#8230;</string>
+    <string name="login_message_error">ログインできません。後で試してください。</string>
+    <string name="login_message_success">ようこそ！ %s</string>
+
+    <string name="main_dialog_accept">削除する</string>
+    <string name="main_dialog_message_confirmDelete">本当に捨ててもいいのかい %s 友達から？
+        \nあなたの会話は完全に削除されません。</string>
+    <string name="main_dialog_title_confirmDelete">友達を削除</string>
+    <string name="main_error_permission_denied">閉鎖&#8230;</string>
+    <string name="main_item_max_messageUnread">99+</string>
+    <string name="main_menu_about">約</string>
+    <string name="main_menu_action_singoff">ログアウト</string>
+    <string name="main_message_request_accepted">今 %s あなたは友達です。</string>
+    <string name="main_message_request_denied">要求を拒否しました。</string>
+    <string name="main_message_user_removed">準備完了 彼らはもう友達ではありません。</string>
+    <string name="main_title">友達</string>
+    <string name="main_tuto_message">ここで友達を追加したり、Eメールを使ったりすることができます \nあなたはあなたの友達リクエストを受け入れるだけでよいでしょう。</string>
+    <string name="main_tuto_ok">わかった</string>
+    <string name="main_tuto_fabAdd">mainFabAdd00</string>
+
+    <string name="profile_title">プロフィール</string>
+    <string name="profile_dialog_title">プロフィール画像を更新する</string>
+    <string name="profile_dialog_message">この画像をあなたのユーザープロフィールにアップロードしますか？</string>
+    <string name="profile_dialog_accept">アップロードする</string>
+    <string name="profile_error_userUpdated">ユーザーの更新中にエラーが発生しました。しばらくしてからもう一度試してください。</string>
+    <string name="profile_error_imageUpdated">プロフィール画像の更新に失敗しました。 あとでもう一度試してみてください。</string>
+    <string name="profile_error_invalid_image">この画像は処理できませんでした。</string>
+    <string name="profile_error_notfound">画像/ファイルが見つかりません。</string>
+    <string name="profile_hint_username">ユーザー名</string>
+    <string name="profile_message_userUpdated">ユーザーは正しく更新されました。</string>
+    <string name="profile_message_imageUploading">プロフィール画像を変更して、お待ちください&#8230;</string>
+    <string name="profile_message_imageUpdated">プロフィール画像を更新しました。</string>
+
+</resources>
