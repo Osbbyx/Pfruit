@@ -74,4 +74,6 @@
     <string name="profile_message_imageUploading">Changing profile image, wait&#8230;</string>
     <string name="profile_message_imageUpdated">Profile image successfully updated.</string>
 
+    <string name="tv_chat_content">Escribe un mensaje</string>
+
 </resources>

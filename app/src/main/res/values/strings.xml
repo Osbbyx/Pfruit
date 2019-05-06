@@ -8,6 +8,7 @@
     <string name="about_version">Version:</string>
     <string name="about_webSite">https://sites.google.com/view/secrethood/privacy-policy</string>
 
+
     <string name="common_error_process_data">Error interno, disculpe las molestias.</string>
     <string name="common_error_server">Ha ocurrido un problema en el servidor, intente más tarde.</string>
     <!-- Texto original :  Error de comunicación con el servidor, intente más tarde. Error interno, disculpe las molestias.-->
@@ -72,4 +73,6 @@
     <string name="profile_message_userUpdated">Usuario actualizado correctamente.</string>
     <string name="profile_message_imageUploading">Cambiando imagen de perfil, espere&#8230;</string>
     <string name="profile_message_imageUpdated">Imagen de perfil actualizada exitosamente.</string>
+
+    <string name="tv_chat_content">Escribe un mensaje</string>
 </resources>

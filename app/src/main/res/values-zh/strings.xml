@@ -74,4 +74,6 @@
     <string name="profile_message_imageUploading">更改個人資料圖片，等待&#8230;</string>
     <string name="profile_message_imageUpdated">檔案圖片已成功更新。</string>
 
+    <string name="tv_chat_content">Escribe un mensaje</string>
+
 </resources>

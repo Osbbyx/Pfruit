@@ -74,4 +74,6 @@
     <string name="profile_message_imageUploading">प्रोफ़ाइल छवि बदलना, प्रतीक्षा करें&#8230;</string>
     <string name="profile_message_imageUpdated">प्रोफ़ाइल छवि सफलतापूर्वक अपडेट की गई।</string>
 
+    <string name="tv_chat_content">Escribe un mensaje</string>
+
 </resources>

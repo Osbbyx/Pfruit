@@ -74,4 +74,6 @@
     <string name="profile_message_imageUploading">프로필 이미지 변경 중&#8230;</string>
     <string name="profile_message_imageUpdated">프로필 이미지가 성공적으로 업데이트되었습니다.</string>
 
+    <string name="tv_chat_content">Escribe un mensaje</string>
+
 </resources>

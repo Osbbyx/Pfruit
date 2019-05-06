@@ -15,6 +15,8 @@
     <dimen name="common_notify_size">24dp</dimen>
     <dimen name="common_notify_sizeyec">50dp</dimen>
     <dimen name="common_padding_small">4dp</dimen>
+    <dimen name="common_padding_smalll">2dp</dimen>
+
 
     <dimen name="chat_margin_min">1dp</dimen>
     <dimen name="chat_margin_max_horizontal">48dp</dimen>

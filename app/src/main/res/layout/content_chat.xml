@@ -42,10 +42,19 @@
             android:id="@+id/btnGallery"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="@dimen/common_padding_small"
+            android:paddingVertical="@dimen/common_padding_small"
             android:src="@android:drawable/ic_menu_gallery"
             android:contentDescription="@string/description_img_gellery"
             android:background="?attr/selectableItemBackgroundBorderless"/>
+
+        <ImageButton
+            android:id="@+id/btnphoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingVertical="@dimen/common_padding_small"
+            android:src="@android:drawable/ic_menu_camera"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+
 
         <android.support.v7.widget.AppCompatEditText
             android:id="@+id/etMessage"
@@ -53,7 +62,11 @@
             android:layout_height="wrap_content"
             android:maxHeight="@dimen/etMessage_height"
             android:inputType="textMultiLine"
-            android:layout_marginEnd="@dimen/common_padding_small"/>
+            android:hint="@string/tv_chat_content"
+            android:layout_marginEnd="@dimen/common_padding_small"
+            />
+
+
     </LinearLayout>
 
     <android.support.v7.widget.RecyclerView
@@ -68,6 +81,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@id/contentMessage"/>
 
+
     <ProgressBar
         android:id="@+id/progressBar"
         android:layout_width="wrap_content"
@@ -77,4 +91,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toTopOf="@id/contentMessage"/>
+
 </android.support.constraint.ConstraintLayout>
